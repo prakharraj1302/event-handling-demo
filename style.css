@@ -1,0 +1,30 @@
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: beige;
+    color: darkgreen;
+}
+.outer{
+    border: 1px solid darkgreen;
+    margin: 10%;
+    padding: 5%;
+    text-align: center;
+    /* align-items: ; */
+
+}
+.counter{
+    border: 1px solid darkgreen;
+    align-items: center;
+    height: fit-content;
+    width: fit-content;
+    padding: 2%;
+    margin: 2%;
+    font-size: xx-large;
+    
+}
+button{
+    background-color: darkgreen;
+    font-size: xx-large;
+    color: white;
+    border-radius: 20%;
+}
